@@ -1,4 +1,3 @@
-# David Barnes CIS 345 T-Th 12:00 P.M. Project
 import csv
 from tkinter import *
 from tkinter import ttk
